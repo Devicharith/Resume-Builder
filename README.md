@@ -12,6 +12,9 @@ To make changes to yolov4 model follow the below medium
 Yolov4 pretrained weights(Should be placed inside backup folder to use trained weights for prediction):
 https://drive.google.com/drive/folders/1BFXVRjTcgQ6RT8wT_3yP4-FTKLmFCf7c?usp=sharing
 
+Access yolov4 folder:
+https://drive.google.com/drive/folders/1VQNnNBRiCJqQppe4X09-WNMx5QMauiGM?usp=sharing
+
 Install all the requirements from requirements.txt
 
 To install CUDA and cuDNN in linux follow yolov4-dependences.pdf in the repo
