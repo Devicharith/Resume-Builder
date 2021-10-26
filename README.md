@@ -9,6 +9,9 @@ Clone 2 repos mentioned below into yolov4 folder.
 To make changes to yolov4 model follow the below medium
 1. https://medium.com/analytics-vidhya/train-a-custom-yolov4-object-detector-using-google-colab-61a659d4868
 
+Yolov4 pretrained weights(Should be placed inside backup folder to use trained weights for prediction):
+https://drive.google.com/drive/folders/1BFXVRjTcgQ6RT8wT_3yP4-FTKLmFCf7c?usp=sharing
+
 Install all the requirements from requirements.txt
 
 To install CUDA and cuDNN in linux follow yolov4-dependences.pdf in the repo
